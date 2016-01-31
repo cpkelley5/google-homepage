@@ -3,4 +3,4 @@ The Odin Project - First repository on GitHub
 
 Project HTML/CSS: Google Homepage
 
-https://github.com/cpkelley5/google-homepage
+[Project link](http://www.theodinproject.com/web-development-101/html-css "Google homepage")
